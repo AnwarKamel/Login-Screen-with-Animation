@@ -28,6 +28,10 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
+
+
         textAnim.startAnimation(ttb)
 
         edt_email.startAnimation(stb)
